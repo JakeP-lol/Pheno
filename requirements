@@ -1,5 +1,13 @@
-plantcv==3.14.2
-opencv-python<4
-numpy
-ipympl
-scikit-image<= 0.18
+plantcv
+matplotlib>=1.5,<3.6
+numpy>=1.11,<1.23
+pandas<2
+python-dateutil
+scipy
+scikit-image>=0.19
+scikit-learn
+plotnine
+dask
+dask-jobqueue
+opencv-python
+statsmodels
