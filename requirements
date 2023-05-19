@@ -12,3 +12,4 @@ dask-jobqueue
 opencv-python
 statsmodels
 ipympl
+ipywidgets
