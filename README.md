@@ -6,7 +6,7 @@ Step 2. Run the "Run on startup" file by copy and pasting the contents          
 
 Step 3. Run the "CV2fix" file by copy and pasting the contents into a               terminal
 
-Step 4. Go into "arabidopsis_multiplant_tutorial (1).ipynb" and insert a           image path into the class options self image section for use in             testing thresholds and rotation, the image may need to be inserted         into the enviroment
+Step 4. Go into "arabidopsis_multiplant_tutorial (1).ipynb" and in cell 3           insert a image path into the class options self image section for           use in testing thresholds and rotation, the image may need to be           inserted into the enviroment (image path can be gotten by right             clicking image and selecting copy path)
 
 Step 5. Check the image in cell 6 and change the rotation value so that the         plants are in a straight line horizontally and vertically
 
