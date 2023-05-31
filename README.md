@@ -16,13 +16,15 @@ Step 7. In cell 11 adjust the fill size so that the noise gets filled in        
 
 Step 8. In cell 13 adjust the ROI values so that each plant has one circle,         do not overlap circles
 
-Step 9. Create a file named "imgs" and put the pictures to be scanned               into the program
+Step 9. Mimic the values that were changed in the .ipynb into the .py file
 
-Step 10. (optional) Go into the multi-plant-analysis.config and change the           memory usage depending on the enviroment constrictions, for                 mybinder use 900MB, can also change output from json to other               text formats or change the output location and name
+Step 10. Create a file named "imgs" and put the pictures to be scanned               into the program
 
-Step 11. Run the "Command for parallel" file by copy and pasting the                 contents into a terminal, wait for the command to fully finish             before continuing
+Step 11. (optional) Go into the multi-plant-analysis.config and change the           memory usage depending on the enviroment constrictions, for                 mybinder use 900MB, can also change output from json to other               text formats or change the output location and name
 
-Step 12. Examine or export "multi-plant-results.json" as these are the raw           results
+Step 12. Run the "Command for parallel" file by copy and pasting the                 contents into a terminal, wait for the command to fully finish             before continuing
+
+Step 13. Examine or export "multi-plant-results.json" as these are the raw           results
 
 Extra notes. 
 
